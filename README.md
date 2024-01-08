@@ -11,7 +11,7 @@ As a data professional, I infuse my dashboard with a storytelling element. You a
 ### 3. Dataset: Food Satisfaction
 The dataset provided for this project is called “Food Satisfaction”. It contains valuable information related to customer reviews, ratings and different aspects of the dining experience.
 
-## Reward Challenge: Predictive analytics using machine learning
+## Bonus Challenge: Predictive analytics using machine learning
 I explored predictive analytics using machine learning (ML) to predict user satisfaction based on their ratings using prediction models and experimented with three of them (### SVC - RandomForest - LogisticRegression) which realted with more than one feature.
 
 ## Project Structure
