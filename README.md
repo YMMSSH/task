@@ -6,7 +6,7 @@ Welcome to the Dining Satisfaction Dashboard project! This project focuses on cr
 ### 1. Looker Studio Dashboard
 Use Looker Studio's powerful features to create comprehensive reporting and visually stunning visualizations of your dining satisfaction dataset.
 
-![image](https://github.com/YMMSSH/task/assets/55538499/a1a93f48-106d-459e-8d5b-5d3e62f2e849)
+![image](https://github.com/YMMSSH/task/assets/55538499/861562ff-c2e6-4547-b86a-589aef30df18)
 
 ### 2. Data narrative
 As a data professional, I infuse my dashboard with a storytelling element. You also craft a narrative through the data, making the insights not only useful, but engaging as well. So that the customer can make critical decisions so I focused on providing strategically useful insights for business success.
